@@ -110,10 +110,11 @@ FLW1_Kerberos
 Course Reflection
 
 What were your initial expectations for the course? Did the course meet, exceed, or fall short of these expectations?
-- 
+
 
 
 What were the main topics or concepts covered in the course? How did these topics contribute to your understanding of the subject matter?
+
 
 
 Reflecting on your learning process, what were the most effective strategies or techniques that helped you grasp and retain the course
