@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/012eb18b-49d9-483d-a67f-451e84752c71)
 
 
-# \<SUBJECT CODE\> PORTFOLIO
+SYSADM1 PORTFOLIO
 
 > **Table of Contents**
 
@@ -23,7 +23,7 @@
 +----------------------------------------+--------------+--------------+
 | > FGE_SW1                              |              |              |
 +----------------------------------------+--------------+--------------+
-| > FGE_LW3 Managing Services in Windows |              |              |
+| > FGE_LW3 Creating File Systems        |           |              |
 +----------------------------------------+--------------+--------------+
 |                                        |              |              |
 +----------------------------------------+--------------+--------------+
@@ -78,7 +78,17 @@
 | Course Reflection                      |              |              |
 +----------------------------------------+--------------+--------------+
 
-**\<insert your scanned activities here include title\>**
+
+FINALS:
+
+FLW1_Kerberos
+![image](https://github.com/user-attachments/assets/37e6c042-775b-48f1-be24-9c35ee64d48b)
+![image](https://github.com/user-attachments/assets/f91589f4-32d0-4829-b28f-51f3c26c1edb)
+![image](https://github.com/user-attachments/assets/c635c499-4eea-4553-b880-2894d4a9ddc6)
+
+
+
+
 
 **Quiz 1:**
 
@@ -88,7 +98,7 @@ height="2.8125in"}
 **\<delete the sample above and include your own
 quizzes/activities/exam\>**
 
-**Course Reflection**
+Course Reflection
 
 What were your initial expectations for the course? Did the course meet,
 exceed, or fall short of these expectations?
