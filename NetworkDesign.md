@@ -13,8 +13,8 @@ network\'s scalability and performance to ensure a seamless user
 experience during the peak traffic period. Consider factors such as
 increased user demand, new applications, and security threats.
 
-![](vertopal_e7b8345a91dc400ab1d0402c05a935f4/media/image2.png){width="7.027083333333334in"
-height="4.245833333333334in"}
+![image](https://github.com/user-attachments/assets/b7508cb3-d370-484c-880e-520b12ae005b)
+
 
 This network architecture is designed for high performance, security,
 and scalability. Traffic from the Internet first passes through a
