@@ -3,7 +3,7 @@
 
 SYSADM1 PORTFOLIO
 
-> **Table of Contents**
+Table of Contents
 
 +----------------------------------------+--------------+--------------+
 | **Name of Activities**                 | **Date of    | **Page No.** |
@@ -23,7 +23,7 @@ SYSADM1 PORTFOLIO
 +----------------------------------------+--------------+--------------+
 | > FGE_SW1                              |              |              |
 +----------------------------------------+--------------+--------------+
-| > FGE_LW3 Creating File Systems        |           |              |
+| > FGE_LW3 Creating File Systems        |              |              |
 +----------------------------------------+--------------+--------------+
 |                                        |              |              |
 +----------------------------------------+--------------+--------------+
@@ -77,6 +77,25 @@ SYSADM1 PORTFOLIO
 +----------------------------------------+--------------+--------------+
 | Course Reflection                      |              |              |
 +----------------------------------------+--------------+--------------+
+FIRST GRADING:
+
+FGE_LW1 Creating File Systems
+![image](https://github.com/user-attachments/assets/533144d7-d6b3-4ace-95ef-4a71eb481682)
+![image](https://github.com/user-attachments/assets/1724b8b4-cd6e-4341-af8d-0c7abcfcde32)
+![image](https://github.com/user-attachments/assets/6739a27a-8983-4a26-9bf1-f8e187a883b7)
+![image](https://github.com/user-attachments/assets/71ac1fbc-f9e2-4404-b549-f87002fdaab8)
+
+
+
+
+
+
+MIDTERMS:
+
+
+
+
+
 
 
 FINALS:
@@ -88,73 +107,36 @@ FLW1_Kerberos
 
 
 
-
-
-**Quiz 1:**
-
-![](vertopal_ac9aacab48cb465eb59b65e855c0dc5c/media/image2.png){width="2.8125in"
-height="2.8125in"}
-
-**\<delete the sample above and include your own
-quizzes/activities/exam\>**
-
 Course Reflection
 
-What were your initial expectations for the course? Did the course meet,
-exceed, or fall short of these expectations?
+What were your initial expectations for the course? Did the course meet, exceed, or fall short of these expectations?
+- 
 
-  -----------------------------------------------------------------------
 
-  -----------------------------------------------------------------------
+What were the main topics or concepts covered in the course? How did these topics contribute to your understanding of the subject matter?
 
-What were the main topics or concepts covered in the course? How did
-these topics contribute to your understanding of the subject matter?
 
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
-
-Reflecting on your learning process, what were the most effective
-strategies or techniques that helped you grasp and retain the course
+Reflecting on your learning process, what were the most effective strategies or techniques that helped you grasp and retain the course
 material?
 
-  -----------------------------------------------------------------------
 
-  -----------------------------------------------------------------------
 
-Were there any particular assignments, projects, or activities that
-significantly enhanced your learning experience? Why were they
-effective?
+Were there any particular assignments, projects, or activities that significantly enhanced your learning experience? Why were they effective?
 
-  -----------------------------------------------------------------------
 
-  -----------------------------------------------------------------------
 
-Did you encounter any challenges or difficulties during the course? How
-did you overcome these obstacles, and what did you learn from them?
+Did you encounter any challenges or difficulties during the course? How did you overcome these obstacles, and what did you learn from them?
 
-  -----------------------------------------------------------------------
 
-  -----------------------------------------------------------------------
 
-Did the course encourage critical thinking and analysis? How did it
-promote higher-order thinking skills, such as problem-solving or
+Did the course encourage critical thinking and analysis? How did it promote higher-order thinking skills, such as problem-solving or
 decision-making?
 
-  -----------------------------------------------------------------------
 
-  -----------------------------------------------------------------------
 
-Reflecting on your personal growth, what new knowledge, skills, or
-perspectives did you gain from this course?
+Reflecting on your personal growth, what new knowledge, skills, or perspectives did you gain from this course?
 
-  -----------------------------------------------------------------------
 
-  -----------------------------------------------------------------------
 
-How do you plan to apply what you have learned in this course to your
-future studies, career, or personal life?
+How do you plan to apply what you have learned in this course to your future studies, career, or personal life?
 
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
